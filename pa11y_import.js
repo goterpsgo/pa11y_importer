@@ -12,9 +12,9 @@ fs.createReadStream('./data/pa11y-tasks.csv')
     client.tasks.create({
       name: data.name,
       url: data.url,
-      standard: data.standard
-      // username: data.username,
-      // password: data.password,
+      standard: data.standard,
+      username: data.username,
+      password: data.password
       // headers: {},
       // actions: [],
       // ignore: []
