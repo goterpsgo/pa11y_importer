@@ -1,0 +1,28 @@
+{
+  "name": "pa11y_importer",
+  "version": "0.0.1",
+  "description": "Pa11y bulk importer",
+  "main": "pa11y_import.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goterpsgo/pa11y_importer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goterpsgo/pa11y_importer/issues"
+  },
+  "homepage": "https://github.com/goterpsgo/pa11y_importer#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "csv-parser": "^1.12.0",
+    "fs": "0.0.1-security",
+    "json2csv": "^3.11.5",
+    "pa11y-webservice-client-node": "^1.2.1",
+    "request": "^2.83.0",
+    "url": "^0.11.0"
+  }
+}
