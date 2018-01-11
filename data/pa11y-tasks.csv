@@ -1,13 +1,13 @@
-name,url,standard
-BIDS,https://bids.state.gov/,Section508
-BIDS Subscribe,"https://bids.state.gov/subscribe",Section508
-BIDS Map,"https://bids.state.gov/map",Section508
-BIDS FAQ, "https://bids.state.gov/faq",Section508
-BIDS Feedback,"https://bids.state.gov/feedback",Section508
-SBNA,"https://match.state.gov/",Section508
-SBNA Join,"https://match.state.gov/join-sbna",Section508
-SBNA Login,"https://match.state.gov/login",Section508
-SBNA Partners,"https://partner.state.gov/",Section508
-SBNA Partner About,"https://partner.state.gov/about-sbna/",Section508
-SBNA Partner Programs,"https://partner.state.gov/sbna-programs/",Section508
-SBNA Partner Events,"https://partner.state.gov/upcoming-events/",Section508
+name,url,standard,username,password
+BIDS,https://bids.state.gov/,Section508,,
+BIDS Subscribe,"https://bids.state.gov/subscribe",Section508,,
+BIDS Map,"https://bids.state.gov/map",Section508,,
+BIDS FAQ, "https://bids.state.gov/faq",Section508,,
+BIDS Feedback,"https://bids.state.gov/feedback",Section508,,
+SBNA,"https://match.state.gov/",Section508,,
+SBNA Join,"https://match.state.gov/join-sbna",Section508,,
+SBNA Login,"https://match.state.gov/login",Section508,username,password
+SBNA Partners,"https://partner.state.gov/",Section508,,
+SBNA Partner About,"https://partner.state.gov/about-sbna/",Section508,,
+SBNA Partner Programs,"https://partner.state.gov/sbna-programs/",Section508,,
+SBNA Partner Events,"https://partner.state.gov/upcoming-events/",Section508,,
