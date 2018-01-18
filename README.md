@@ -12,7 +12,7 @@ Scripts and files in this repo are based on content from [here](https://www.lull
 
 ## Spidering
 - Update the contents in `data/microsites.csv` with your URLs of interest.
-- Run `node microsites.csv` - results will be saved in `data/microsite-*.csv` files.
+- Run `node crawler.js` - results will be saved in `data/microsite-*.csv` files.
 
 ## Importing
 - Update `data/pa11y-tasks.csv` with entries of interest.
